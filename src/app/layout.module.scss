@@ -13,6 +13,7 @@
 
       .logo {
         height: 50px;
+        transform: rotate(180deg);
       }
 
       .emoji {
@@ -31,8 +32,9 @@
   .footer {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 2rem;
     padding-top: 2rem;
-    gap: 1rem;
+    padding-bottom: 1rem;
   }
 }

@@ -27,6 +27,7 @@ export default function RootLayout({
         <section className={styles.content}>{children}</section>
         <footer className={styles.footer}>
           <a href="https://github.com/trustroots-community/trustrots">source</a>
+          <Link href="/about">about</Link>
         </footer>
       </body>
     </html>

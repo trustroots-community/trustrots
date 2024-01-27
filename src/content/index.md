@@ -2,13 +2,15 @@
 
 ## TL;DR
 
-Trustroots Foundation was [dissolved on 24 May 2022](https://find-and-update.company-information.service.gov.uk/company/09489825). Since July 2022, it has been operated by 3 private people, 2 of them former board members. Community members have been [intentionally kept](https://github.com/Trustroots/trustroots/commit/1a9185bc39e437290b0d4ccc07fb08be294844ef) in [dark about this](https://github.com/Trustroots/trustroots/issues/2585) by [people](https://github.com/chmac) [in](https://github.com/guaka) [control](https://github.com/robokow). On 25 January 2024, volunteers were kicked out from Trustroots Github organization.
+Trustroots Foundation was [dissolved on 24 May 2022](https://find-and-update.company-information.service.gov.uk/company/09489825). Since July 2022, it has been operated by 3 private people, 2 of them former board members. Community members have been [intentionally kept](https://github.com/Trustroots/trustroots/commit/1a9185bc39e437290b0d4ccc07fb08be294844ef) in [dark about this](https://github.com/Trustroots/trustroots/issues/2585) by [people](https://github.com/chmac) [in](https://github.com/guaka) [control](https://github.com/robokow).
 
-The 3 people in control [write about decentralization](https://github.com/trustroots/nostroots), but perform censorship and centralization of control.
+On 25 January 2024, volunteers were kicked out from Trustroots Github organization.
+
+The people in control [write about decentralization](https://github.com/trustroots/nostroots), but perform censorship and centralization of control.
 
 ## What can I do?
 
-Please join us in [Trustroots Matrix channels](https://matrix.to/#/#volunteers:trustrooters.org). Write message to the people in control. Open issues and comment on GitHub, if you don't mind getting banned. Subscribe for email updates.
+Please join us in [Trustroots Matrix channels](https://matrix.to/#/#volunteers:trustrooters.org). Write message to the people in control via Trustroots. Open issues and comment on GitHub, if you don't mind getting banned. Subscribe for email updates (coming soon).
 
 ## Details
 
