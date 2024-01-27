@@ -1,5 +1,5 @@
 {
-  "name": "trustroots.community",
+  "name": "trustrots",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
+    "github-markdown-css": "^5.5.0",
+    "gray-matter": "^4.0.3",
+    "mdast-util-to-markdown": "^2.1.0",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "sass": "^1.70.0"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.1.0"
+    "eslint-config-next": "14.1.0",
+    "typescript": "^5"
   }
 }
