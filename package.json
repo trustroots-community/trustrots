@@ -1,5 +1,13 @@
 {
   "name": "trustrots",
+  "description": "trustrots (sic): What went wrong with Trustroots.org",
+  "keywords": [
+    "trustroots",
+    "trustroots.org",
+    "hospex",
+    "hospitality",
+    "hospitality exchange"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {

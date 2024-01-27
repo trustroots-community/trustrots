@@ -9,7 +9,7 @@ import styles from "./layout.module.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Trustrots: What Went Wrong With Trustroots.org",
+  title: "Trustrots (sic): What Went Wrong With Trustroots.org",
   description: "What went wrong with Trustroots.org",
 };
 
