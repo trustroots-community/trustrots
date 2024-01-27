@@ -9,6 +9,8 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    env:
+      HOSTNAME: ${{ vars.HOSTNAME }} # CNAME
 
     steps:
       - name: Setup Node
@@ -24,6 +26,9 @@ jobs:
 
       - name: Build project
         run: yarn build
+
+      - name: Generate CNAME
+        run: yarn cname
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v3
