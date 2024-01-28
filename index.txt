@@ -1,44 +1,111 @@
-3:I[5250,["647","static/chunks/647-c77facdb43b6d12d.js","185","static/chunks/app/layout-083d04c8c482984b.js"],""]
-4:I[1749,["647","static/chunks/647-c77facdb43b6d12d.js","185","static/chunks/app/layout-083d04c8c482984b.js"],"Image"]
+3:I[5250,["647","static/chunks/647-c77facdb43b6d12d.js","185","static/chunks/app/layout-c57429eba47f1d95.js"],""]
+4:I[1749,["647","static/chunks/647-c77facdb43b6d12d.js","185","static/chunks/app/layout-c57429eba47f1d95.js"],"Image"]
 5:I[5613,[],""]
 6:I[1778,[],""]
-0:["ktWV0qekEIG4N5xGNcxW9",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"layout_body__oiEIT","children":[["$","header",null,{"className":"layout_header__ttTk7","children":["$","$L3",null,{"href":"/","className":"layout_logoContainer__A1J7M","children":[["$","$L4",null,{"src":{"src":"/_next/static/media/trustroots-logo.ad672ca9.svg","height":464,"width":409,"blurWidth":0,"blurHeight":0},"alt":"","width":50,"className":"layout_logo__PcxmI"}],["$","span",null,{"className":"layout_emoji__UbKUv","children":"😭"}]]}]}],["$","section",null,{"className":"layout_content___lGrP","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f8ca38228277c84.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e6f05398e463a328.css","precedence":"next","crossOrigin":""}]]}]}],["$","footer",null,{"className":"layout_footer__T0o2P","children":[["$","a",null,{"href":"https://github.com/trustroots-community/trustrots","children":"source"}],["$","$L3",null,{"href":"/about","children":"about"}]]}]]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3ae40e04e640b0c8.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
-8:T1382,<h1>What You Need to Know about Trustroots But Haven't Been Told</h1>
+0:["thFKsxqi4m4e_sHKHNO4E",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"layout_body__oiEIT","children":[["$","header",null,{"className":"layout_header__ttTk7","children":["$","$L3",null,{"href":"/","className":"layout_logoContainer__A1J7M","children":["$","$L4",null,{"src":{"src":"/_next/static/media/trustroots-logo.ad672ca9.svg","height":464,"width":409,"blurWidth":0,"blurHeight":0},"alt":"","width":50,"className":"layout_logo__PcxmI"}]}]}],["$","section",null,{"className":"layout_content___lGrP","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f8ca38228277c84.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e6f05398e463a328.css","precedence":"next","crossOrigin":""}]]}]}],["$","footer",null,{"className":"layout_footer__T0o2P","children":[["$","a",null,{"href":"https://github.com/trustroots-community/trustrots","children":"source"}],["$","$L3",null,{"href":"/about","children":"about"}]]}]]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ffba697edb1ffa8d.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+8:T242c,<h1>What You Need to Know About Trustroots but Haven't Been Told</h1>
 <h2>TL;DR</h2>
-<p>Trustroots Foundation was <a href="https://find-and-update.company-information.service.gov.uk/company/09489825">dissolved on 24 May 2022</a>. Since July 2022, it has been operated by 3 private people, 2 of them former board members. Community members have been <a href="https://github.com/Trustroots/trustroots/commit/1a9185bc39e437290b0d4ccc07fb08be294844ef">intentionally kept</a> in <a href="https://github.com/Trustroots/trustroots/issues/2585">dark about this</a> by <a href="https://github.com/chmac">people</a> <a href="https://github.com/guaka">in</a> <a href="https://github.com/robokow">control</a>.</p>
-<p>On 25 January 2024, volunteers were kicked out from Trustroots Github organization.</p>
-<p>The people in control <a href="https://github.com/trustroots/nostroots">write about decentralization</a>, but perform censorship and centralization of control.</p>
+<p>Trustroots Foundation was <a href="https://find-and-update.company-information.service.gov.uk/company/09489825">dissolved on 24 May 2022</a>. Since July 2022, it has been operated by 3 private people, 2 of them resigned board members. Community members have been <a href="https://github.com/Trustroots/trustroots/commit/1a9185bc39e437290b0d4ccc07fb08be294844ef">intentionally kept</a> in <a href="https://github.com/Trustroots/trustroots/issues/2585">dark about this</a> by <a href="https://github.com/chmac">people</a> <a href="https://github.com/guaka">in</a> <a href="https://github.com/robokow">control</a>.</p>
+<p>On 25 January 2024, almost all <a href="https://www.trustroots.org/team">volunteers</a> were kicked out from Trustroots Github organization.</p>
+<p>The people in control <a href="https://github.com/trustroots/nostroots">write about decentralization</a>, but silence dissent, perform censorship and concentrate control in their own hands.</p>
 <h2>What can I do?</h2>
-<p>Please join us in <a href="https://matrix.to/#/#volunteers:trustrooters.org">Trustroots Matrix channels</a>. Write message to the people in control via Trustroots. Open issues and comment on GitHub, if you don't mind getting banned. Subscribe for email updates (coming soon).</p>
+<p>Please, tell your friends and contacts on Trustroots. Join us in <a href="https://matrix.to/#/#volunteers:trustrooters.org">Trustroots Matrix channels</a>. Write message to the <a href="https://www.trustroots.org/profile/chmac">people</a> <a href="https://www.trustroots.org/profile/thefriendlyhost">in</a> <a href="https://www.trustroots.org/profile/robino">control</a> via Trustroots. <a href="https://github.com/Trustroots/trustroots">Open issues and comment on GitHub</a>, if you don't mind getting banned. Subscribe for email updates (coming soon).</p>
 <h2>Details</h2>
-<p>On January 25, 2024, many volunteers were kicked out of <a href="https://github.com/Trustroots">Trustroots github organization</a>, some were completely banned. Also, <a href="https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27">hundreds of issues and pull requests were closed</a>, including extremely valuable ones like <a href="https://github.com/Trustroots/trustroots/issues/2654">accessibility feedback</a> and <a href="https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27+is%3Aissue+label%3Abug">bug reports</a>.</p>
+<p>On January 25, 2024, many volunteers were kicked out of <a href="https://github.com/Trustroots">Trustroots github organization</a>, some were completely banned. Also, <a href="https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27">hundreds of issues and pull requests were closed</a>. This was a culmination of 1.5 years of takeover by a small group of people.</p>
 <p>To be continued…</p>
 <h2>Timeline</h2>
 <ul>
-<li>25 - 27 January 2024 - Callum and Kasper change information on Trustroots website to remove volunteering, and promote their new pet project - nostroots</li>
-<li>25 January 2024 - Volunteers are removed from Github Trustroots organization, <a href="">some are completely banned</a>. Many issues and pull requests are being closed without explanation by Callum.</li>
-<li>2023 - 100000 members</li>
-<li>TODO - Ops clone the Trustroots repository into <a href="https://github.com/trustrootsops/trustroots">trustrootsops/trustroots</a>, <a href="https://github.com/Trustroots/trustroots/commit/1a9185bc39e437290b0d4ccc07fb08be294844ef">remove the information about Foundation dissolution</a>, and from now on use trustrootsops/trustroots as source of truth for the production web app</li>
-<li>TODO - Volunteers manage to merge the updated information to master</li>
-<li>TODO - Volunteers want to update information on the website that Trustroots Foundation was dissolved, Ops disagree</li>
-<li>TODO - Discussions move from Slack to Matrix</li>
-<li>TODO - Ops move Trustroots to a new server and save it from disappearing</li>
-<li>TODO - Kasper shares access keys with Callum and Robino. They become the Ops</li>
-<li>TODO - A group of current and former volunteers meets and talks about Trustroots future. Kasper and Callum propose to sunset Trustroots, others disagree</li>
-<li>24 May 2022 - Trustroots foundation is dissolved because annual tax documents weren't submitted. Mikael stops interacting with the project, Kasper remains the only active person with access to technical infrastructure.</li>
-<li>TODO - 50000 members</li>
-<li>2021-07-29 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history">Kasper leaves Trustroots Board of Directors</a></li>
-<li>2018 - Trustroots hackathon in south of Spain</li>
-<li>TODO - 10000 members</li>
-<li>2018-03-14 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history">Callum leaves Trustroots Board of Directors</a></li>
-<li>2015-03-13 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history">Trustroots Foundation is created</a></li>
-<li>2014-12 - Trustroots hackathon in Antalya, Turkey</li>
-<li>2014-10-25 - First Trustroots member creates profile</li>
-<li>Mikael and some other people build initial version of Trustroots</li>
-<li>2014-08-28 - <a href="https://github.com/trustroots/trustroots/commit/0665395d5c5e67537">First commit to Trustroots</a></li>
-<li>2014 - BeWelcome holds General Assembly and elects new Board of Directors, because the current one fell apart. Also, Welen is unsuccessful and discontinued. Kasper, Callum, and some of the developers of Welen including Mikael move on to create Trustroots</li>
-<li>2013 - Mikael and other BeWelcome volunteers work on new version of BeWelcome called Welen</li>
-<li>2013 - BeWelcome General Assembly - Callum and Kasper are elected to Board of Directors of BeWelcome, Callum as Executive Director</li>
+<li>
+<p>25 - 27 January 2024 - Consolidation of control continues. Callum and Kasper <a href="https://github.com/Trustroots/trustroots/commits/master/?since=2024-01-20&#x26;until=2024-01-30">are changing information on Trustroots website</a>, removing volunteering information, and promoting their new project. They also <a href="https://github.com/Trustroots/trustroots/commit/902e0261718fcb6bff7b4c9ca2774d5f872e6187">revert recent code improvements</a>.</p>
+</li>
+<li>
+<p>25 January 2024 - Without notice, almost all volunteers are removed from Github Trustroots organization. <a href="https://github.com/Trustroots/trustroots/issues?q=closed%3A2024-01-24..2024-01-27+">Hundreds of issues and pull requests are being closed without explanation</a>, including very valuable ones like <a href="https://github.com/Trustroots/trustroots/issues/2654">accessibility feedback</a> and <a href="https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27+is%3Aissue+label%3Abug">bug reports</a>.</p>
+<p>When people express disagreement with this process, <a href="https://github.com/Trustroots/trustroots/issues/2661">their</a> <a href="https://github.com/Trustroots/trustroots/issues/2662">issues</a> <a href="https://github.com/Trustroots/trustroots/issues/2663">are</a> <a href="https://github.com/Trustroots/trustroots/issues/2664">deleted</a> <a href="https://github.com/Trustroots/trustroots/issues/2667">and</a> they are banned.</p>
+</li>
+<li>
+<p>2023-09 - <a href="https://grafana.trustroots.org/d/000000002/members?orgId=1&#x26;from=1693519200000&#x26;to=1696111200000">100k members</a></p>
+</li>
+<li>
+<p>2023-07 - Robino attempts to <a href="https://github.com/Trustroots/trustroots/pull/2645">update the information about Foundation</a>. But bridging the gap between volunteers and ops seems impossible. The update is too vague, yet it can't get published.</p>
+</li>
+<li>
+<p>Some minor code improvements can be published thanks to Robino, who <a href="https://github.com/trustrootsops/trustroots/commits/master/?author=robokow">occasionally merges them</a> to trustrootsops repository</p>
+</li>
+<li>
+<p>2023-04 - After merging Trustroots code to trustrootsops repository, Ops <a href="https://github.com/Trustroots/trustroots/commit/1a9185bc39e437290b0d4ccc07fb08be294844ef">remove the information about Foundation dissolution</a> thus avoiding publishing it</p>
+</li>
+<li>
+<p>Volunteers keep meeting regularly, but there is general feeling of frustration. Ops communicate very little, and allow only very limited improvements. Volunteers one by one stop attending meetings. Lack of agency.</p>
+</li>
+<li>
+<p>2022-10-05 - Volunteers <a href="https://github.com/Trustroots/trustroots/pull/2588#event-7522573117">manage to merge</a> the updated information about Foundation dissolution to trustroots repository master, but Ops refuse to deploy it</p>
+</li>
+<li>
+<p>2022-10 - Discussions are moved from Slack to Matrix</p>
+</li>
+<li>
+<p>2022-09 - Trustroots repository is <a href="https://github.com/chmac?tab=overview&#x26;from=2022-09-01&#x26;to=2022-09-31">forked</a> into <a href="https://github.com/trustrootsops/trustroots">trustrootsops/trustroots</a> by Callum. This repository will be used as a source of truth for production application</p>
+</li>
+<li>
+<p>2022-08 - Some volunteers want to <a href="https://github.com/Trustroots/trustroots/issues/2585">publish the information</a> <a href="https://github.com/Trustroots/trustroots/issues/2588">on the website</a> that Trustroots Foundation was dissolved, <a href="https://github.com/Trustroots/trustroots/issues/2585#issuecomment-1215005999">Ops</a> <a href="https://github.com/Trustroots/trustroots/issues/2585#issuecomment-1269698630">disagree</a></p>
+</li>
+<li>
+<p>Ops move Trustroots to a new server hosted by Hetzner Online GmbH, and save it from disappearing</p>
+</li>
+<li>
+<p>Kasper shares access keys with Callum and later with Robino. They become the Ops</p>
+</li>
+<li>
+<p>2022-07 - A group of current and former volunteers meets online, and talks about Trustroots future. Kasper and Callum propose to sunset Trustroots, others disagree</p>
+</li>
+<li>
+<p>2022-05-24 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825">Trustroots foundation is dissolved</a> because annual tax documents weren't submitted. Mikael stops interacting with the project, Kasper remains the only available person with access to technical infrastructure.</p>
+</li>
+<li>
+<p>2021-07-29 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history">Kasper leaves Trustroots Board of Directors</a></p>
+</li>
+<li>
+<p>2020-10 - <a href="https://grafana.trustroots.org/d/000000002/members?orgId=1&#x26;from=1601503200000&#x26;to=1604185200000">50k members</a></p>
+</li>
+<li>
+<p>2018-10-2018-12 - <a href="https://ideas.trustroots.org/2018/08/27/iberian-collective/">Trustroots Collective in south of Spain</a></p>
+</li>
+<li>
+<p>2018-03-14 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history">Callum leaves Trustroots Board of Directors</a></p>
+</li>
+<li>
+<p>2017-07 - <a href="https://x.com/freetravelshow/status/886933852408733696?s=20">Hackathon in Berlin</a></p>
+</li>
+<li>
+<p>2015-08 - <a href="https://grafana.trustroots.org/d/000000002/members?orgId=1&#x26;from=1438380000000&#x26;to=1441058400000">10k members</a></p>
+</li>
+<li>
+<p>2015-03-13 - <a href="https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history">Trustroots Foundation is created</a></p>
+</li>
+<li>
+<p>2014-12-23 - Trustroots is <a href="https://ideas.trustroots.org/2014/12/23/introducing-trustroots/">officially released</a></p>
+</li>
+<li>
+<p>2014-12 - <a href="https://mikaelkorpela.fi/blog/hitchwiki-hackathon-turkey/">Hitchwiki Hackathon</a> in Antalya, Turkey</p>
+</li>
+<li>
+<p>2014-10-25 - First Trustroots members create profile</p>
+</li>
+<li>
+<p>Mikael and some other people build initial version of Trustroots</p>
+</li>
+<li>
+<p>2014-08-28 - <a href="https://github.com/trustroots/trustroots/commit/0665395d5c5e67537">First commit to Trustroots</a></p>
+</li>
+<li>
+<p>2014-02 - BeWelcome holds <a href="https://www.bevolunteer.org/wp-content/uploads/2014/03/2014_eGA1_Minutes.pdf">extraodinary General Assemblies</a> because BoD fell aparat. Also, Welen is discontinued. Conflicts among BoD and developer teams <a href="https://www.bevolunteer.org/wp-content/uploads/2018/02/History_06-2017_Version2.pdf">are mentioned as reason</a>. Kasper, Callum, and some of the developers of Welen including Mikael move on to create Trustroots</p>
+</li>
+<li>
+<p>2013-05-2014-01 - Mikael and some other future Trustroots developers work on new version of BeWelcome called <a href="https://gitorious.org/welen/welen">Welen</a></p>
+</li>
+<li>
+<p>2013-11-02 - <a href="https://www.bevolunteer.org/wp-content/uploads/2013/12/2013_GA_Minutes.pdf">BeWelcome General Assembly</a> - Callum and Kasper are elected to Board of Directors of BeWelcome, <a href="https://www.bewelcome.org/wiki/BoD%202013-2014">Callum becomes Executive Director</a></p>
+</li>
 </ul>
 2:["$","div",null,{"className":"id_wrapper__ClwQj","children":["$","div",null,{"className":"markdown-body id_content__Kjjvf","dangerouslySetInnerHTML":{"__html":"$8"}}]}]
 7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trustrots (sic): What Went Wrong With Trustroots.org"}],["$","meta","3",{"name":"description","content":"What went wrong with Trustroots.org"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}]]
