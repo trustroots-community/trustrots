@@ -21,7 +21,7 @@ export default function RootLayout({
         <header className={styles.header}>
           <Link href="/" className={styles.logoContainer}>
             <Image src={logo} alt="" width={50} className={styles.logo} />
-            <span className={styles.emoji}>😭</span>
+            {/* <span className={styles.emoji}>😭</span> */}
           </Link>
         </header>
         <section className={styles.content}>{children}</section>
