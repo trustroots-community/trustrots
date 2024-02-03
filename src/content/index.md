@@ -10,7 +10,7 @@ The people in control [write about decentralization](https://github.com/trustroo
 
 ## What can I do?
 
-Please tell your friends and contacts on Trustroots about what's going on. Join us in [Trustroots Matrix channels](https://matrix.to/#/#volunteers:trustrooters.org). Write message to the [people](https://www.trustroots.org/profile/chmac) [in](https://www.trustroots.org/profile/thefriendlyhost) [control](https://www.trustroots.org/profile/robino) via Trustroots. [Open issues and comment on GitHub](https://github.com/Trustroots/trustroots) if you don't mind getting banned. Subscribe for email updates (coming soon).
+Please tell your friends and contacts on Trustroots about what's going on. Join us in [Trustroots Matrix channels](https://matrix.to/#/#volunteers:trustrooters.org). Write message to the [people](https://www.trustroots.org/profile/chmac) in [control](https://www.trustroots.org/profile/thefriendlyhost) via Trustroots. [Open issues and comment on GitHub](https://github.com/Trustroots/trustroots) if you don't mind getting banned. Subscribe for email updates (coming soon).
 
 ## Details
 
@@ -37,6 +37,7 @@ To be continued&hellip;
 - Ops move Trustroots to a new server hosted by Hetzner Online GmbH, and save it from disappearing
 - Kasper shares access keys with Callum and later with Robino. They become the Ops
 - 2022-07 - A group of current and former volunteers meets online, and talks about Trustroots future. Kasper and Callum propose to sunset Trustroots, others disagree
+- 2022-06 - Technical difficulties: [email is down for several weeks](https://grafana.trustroots.org/d/000000002/members?orgId=1&from=1651356000000&to=1659304800000&viewPanel=2), and also [website is down for a couple of days](https://grafana.trustroots.org/d/000000004/messages-detailed?orgId=1&from=1655676000000&to=1657404000000&viewPanel=11). People start noticing that Trustroots may have troubles.
 - 2022-05-24 - [Trustroots foundation is dissolved](https://find-and-update.company-information.service.gov.uk/company/09489825) because annual tax documents weren't submitted. Mikael stops interacting with the project, Kasper remains the only available person with access to technical infrastructure.
 - 2021-07-29 - [Kasper leaves Trustroots Board of Directors](https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history)
 - 2020-10 - [50k members](https://grafana.trustroots.org/d/000000002/members?orgId=1&from=1601503200000&to=1604185200000)
