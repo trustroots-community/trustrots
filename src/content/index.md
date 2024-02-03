@@ -14,7 +14,7 @@ Please tell your friends and contacts on Trustroots about what's going on. Join 
 
 ## Details
 
-On January 25, 2024, many volunteers were kicked out of [Trustroots github organization](https://github.com/Trustroots), some were completely banned. Also, [hundreds of issues and pull requests were closed](https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27). This was a culmination of 1.5 years of takeover by a small group of people.
+On January 25, 2024, many volunteers were kicked out of [Trustroots github organization](https://github.com/Trustroots), some were completely banned. Also, [hundreds of issues and pull requests were closed](https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27). This was a culmination of 1.5 years of takeover by a small group of people, after the [Trustroots Foundation had been dissolved](https://find-and-update.company-information.service.gov.uk/company/09489825), and the main founder and developer had stopped being active.
 
 To be continued&hellip;
 
@@ -38,7 +38,7 @@ To be continued&hellip;
 - Kasper shares access keys with Callum and later with Robino. They become the Ops
 - 2022-07 - A group of current and former volunteers meets online, and talks about Trustroots future. Kasper and Callum propose to sunset Trustroots, others disagree
 - 2022-06 - Technical difficulties: [email is down for several weeks](https://grafana.trustroots.org/d/000000002/members?orgId=1&from=1651356000000&to=1659304800000&viewPanel=2), and also [website is down for a couple of days](https://grafana.trustroots.org/d/000000004/messages-detailed?orgId=1&from=1655676000000&to=1657404000000&viewPanel=11). People start noticing that Trustroots may have troubles.
-- 2022-05-24 - [Trustroots foundation is dissolved](https://find-and-update.company-information.service.gov.uk/company/09489825) because annual tax documents weren't submitted. Mikael stops interacting with the project, Kasper remains the only available person with access to technical infrastructure.
+- 2022-05-24 - [Trustroots foundation is dissolved](https://find-and-update.company-information.service.gov.uk/company/09489825), probably because annual legal documents weren't submitted. Mikael stops interacting with the project, Kasper remains the only available person with access to technical infrastructure.
 - 2021-07-29 - [Kasper leaves Trustroots Board of Directors](https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history)
 - 2020-10 - [50k members](https://grafana.trustroots.org/d/000000002/members?orgId=1&from=1601503200000&to=1604185200000)
 - 2018-10-2018-12 - [Trustroots Collective in south of Spain](https://ideas.trustroots.org/2018/08/27/iberian-collective/)
@@ -47,7 +47,10 @@ To be continued&hellip;
 - 2015-08 - [10k members](https://grafana.trustroots.org/d/000000002/members?orgId=1&from=1438380000000&to=1441058400000)
 - 2015-03-13 - [Trustroots Foundation is created](https://find-and-update.company-information.service.gov.uk/company/09489825/filing-history)
 - 2014-12-23 - Trustroots is [officially released](https://ideas.trustroots.org/2014/12/23/introducing-trustroots/)
-- 2014-12 - [Hitchwiki Hackathon](https://mikaelkorpela.fi/blog/hitchwiki-hackathon-turkey/) in Antalya, Turkey
+- 2014-12 - [Hitchwiki](https://hitchwiki.org/en/Hitchwiki:About) [Hackathon](https://mikaelkorpela.fi/blog/hitchwiki-hackathon-turkey/) in Antalya, Turkey
+
+  Mikael, Rémi, Arthur, (...) finalize and test the Trustroots before its official launch
+
 - 2014-10-25 - First Trustroots members create profile
 - Mikael and some other people build initial version of Trustroots
 - 2014-08-28 - [First commit to Trustroots](https://github.com/trustroots/trustroots/commit/0665395d5c5e67537)
