@@ -10,7 +10,14 @@ The people in control [write about decentralization](https://github.com/trustroo
 
 ## What can I do?
 
-Please tell your friends and contacts on Trustroots about what's going on. Join us in [Trustroots Matrix channels](https://matrix.to/#/#volunteers:trustrooters.org). Write message to the [people](https://www.trustroots.org/profile/chmac) in [control](https://www.trustroots.org/profile/thefriendlyhost) via Trustroots. [Open issues and comment on GitHub](https://github.com/Trustroots/trustroots) if you don't mind getting banned. Subscribe for email updates (coming soon).
+- Tell your friends and contacts on Trustroots about what's going on
+- Join us in [Trustroots Matrix channels](https://matrix.to/#/#volunteers:trustrooters.org)
+- Write message to the [people](https://www.trustroots.org/profile/chmac) in [control](https://www.trustroots.org/profile/thefriendlyhost) via Trustroots
+- [Open issues and comment on GitHub](https://github.com/Trustroots/trustroots) if you don't mind getting banned
+- Unstar [Trustroots GitHub repository](https://github.com/Trustroots/trustroots) ([393 stars on 2024-03-10](https://web.archive.org/web/20240310000342/https://github.com/trustroots/trustroots))
+- [edit your Trustroots profile](https://trustroots.org/profile/edit), and add information and link to this website
+- Warn potential volunteers that the project is not a safe space to contribute at the moment
+- Subscribe for email updates (coming soon)
 
 ## Details
 
@@ -20,6 +27,8 @@ To be continued&hellip;
 
 ## Timeline
 
+- 3 - 4 February 2024 - [Callum publicly claims](https://github.com/trustroots-community/trustrots/issues/5) that Foundation [still exists](https://github.com/trustroots-community/trustrots/issues/5#issuecomment-1925224345) and that [he has full support of its directors](https://github.com/trustroots-community/trustrots/issues/5#issuecomment-1925839995), doesn't provide sufficient evidence.
+- 31 January 2024 - [According to Callum, Robino has been fired](https://github.com/trustroots-community/trustrots/issues/2)
 - 25 - 27 January 2024 - Consolidation of control continues. Callum and Kasper [are changing information on Trustroots website](https://github.com/Trustroots/trustroots/commits/master/?since=2024-01-20&until=2024-01-30), removing volunteering information, and promoting their new project. They also [revert recent code improvements](https://github.com/Trustroots/trustroots/commit/902e0261718fcb6bff7b4c9ca2774d5f872e6187).
 - 25 January 2024 - Without notice, almost all volunteers are removed from Github Trustroots organization. [Hundreds of issues and pull requests are being closed without explanation](https://github.com/Trustroots/trustroots/issues?q=closed%3A2024-01-24..2024-01-27+), including very valuable ones like [accessibility feedback](https://github.com/Trustroots/trustroots/issues/2654) and [bug reports](https://github.com/Trustroots/trustroots/issues?q=is%3Aclosed+closed%3A2024-01-24..2024-01-27+is%3Aissue+label%3Abug).
 
@@ -57,3 +66,9 @@ To be continued&hellip;
 - 2014-02 - BeWelcome holds [extraodinary General Assemblies](https://www.bevolunteer.org/wp-content/uploads/2014/03/2014_eGA1_Minutes.pdf) because BoD fell aparat. Also, Welen is discontinued. Conflicts among BoD and developer teams [are mentioned as reason](https://www.bevolunteer.org/wp-content/uploads/2018/02/History_06-2017_Version2.pdf). Kasper, Callum, and some of the developers of Welen including Mikael move on to create Trustroots
 - 2013-05-2014-01 - Mikael and some other future Trustroots developers work on new version of BeWelcome called [Welen](https://gitorious.org/welen/welen)
 - 2013-11-02 - [BeWelcome General Assembly](https://www.bevolunteer.org/wp-content/uploads/2013/12/2013_GA_Minutes.pdf) - Callum and Kasper are elected to Board of Directors of BeWelcome, [Callum becomes Executive Director](https://www.bewelcome.org/wiki/BoD%202013-2014)
+
+## What can be done legally?
+
+- [Callum's claim](https://github.com/trustroots-community/trustrots/issues/5#issuecomment-1925839995) that he has had full support of Foundation can be verified or debunked
+- If they indeed delegated their authority, last [Foundation directors](https://www.trustroots.org/foundation) can withdraw it again according to [Foundation articles](https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/54ezNEK6uAE3QxHfE26Xqn0EETa5Pb20zKj4Tvhw8Bo/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAWRGBDBV3PPG3EMXY%2F20240310%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240310T001732Z&X-Amz-Expires=60&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJHMEUCIQC0YsNo56NFgbDyq8IqgpS8AqBgwGtuugksUb4iOf0MuQIgfhGdN3RAn6WQAhJxlpvyqQUK9T2kbAMZndfi3uNSpsEqxAUI9P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgw0NDkyMjkwMzI4MjIiDO3I8HawQSQ9sdAEICqYBQ76CFTp5LhRqS%2FxWKjkd%2BH7q9uqbcY%2BvapUxMzgCVJGA2xognlsIVKnGf0%2BDMYhi6kUg%2FZlVXjT0w9xsOoahoup2lF4OyOcPVqIIOEg%2FwgyN3m%2BW15ARHoyRzjEGr72MtGxBAL%2Bd5Gpseex33txPI0UX5E6mNRiVsYfWCd1MDrbQ9HlfQQ2z%2FhvQiT2rnLRdV3%2FlA7iY%2Fx1WEUE3SV%2F%2BPriizzZtY5bOSzPcV%2BID88Yud0Wjt0pvlWnnXwUR4jEE9YpEs4WYGOqHtlYWRBMOyDFivoe0nM%2BXxgje5bae1a1Svby4sVcxRohugp9pQrlYbQtvZRXS061%2FtZmkMFPe4lmzYz6fXWGsMe3izGxvMKszEj8pl800vVQ3cvDOC3fWEMFAAeLaN66Zp43q6X5r67StrhfREiK3opUo9vTntIzkUkvGvZhd9gWp1igWMawXkVbq9hyxnN7iimb1%2B8yZl8UoqcqTDebhgYmHP3zxJPsLwct5atpiyjZ8%2FNt7v5YjsrWMuWZG%2FketrQww5PhJeOPy99%2Fh4TVqOc7Wkzcb88oO%2F7o08D%2Bnyg8MnUzD0Av2LhsoXNWDWlIVX1d%2Bw04UY4e%2Bv66dRiCk1ElmWSispDrFKgExndTJ09QtNmHBQxxW%2BBQXJUYzmjMfmITkZwCFkmkqzquq1SraOw5sWazO0OvV2M0Qo8njk0seRVjm1V2sgLaTluUaAOmppZe%2Fay7PR0IfVmgDmY1nO%2FnZak919nJ8ikZWKZwEnqZsb5SqNtybxANA1MiJgxsK4zBVeZ%2FH7ba2WIyrBRuLGf7g6kLlHySflNaE87Iflk8AbGJH9yjzioy51MStwwO0Eb%2BewKL9%2BywvkroeMXU%2FiRKvxLdLwb6Dp0f32P4keYw59yyrwY6sQHdwdPN4YlEXESaEOnlk4gG%2BhAy%2F0ocaTddglbl8944be3X%2BsY6CFS8ujgFwRfHe79mb1HM1G3kQ%2FvVgX5fs9tAuui7wFN61c3rBBQOu8jbVWAlr%2F%2BEnGxadZDZf4tHFbnxRvqUWomBO%2F7mmv0o%2BfuogOWHbtU68yOQ3HVR4%2BCfh3I23RNRZHbMFWLVC1D4AsqUCMRI4z3gKwCbVHCyQpAUGTDNCvzZ6R8mOzL%2FlEskAQg%3D&X-Amz-SignedHeaders=host&response-content-disposition=inline%3Bfilename%3D%22companies_house_document.pdf%22&X-Amz-Signature=5f5c9792d01375dee35856a77b338d41de1f39566d4b577ffd03e447c1b071b0)
+- Regarding GDPR, you can [exercise your rights](https://noyb.eu/en/exercise-your-rights) - from [withdrawing consent](https://noyb.eu/en/withdraw-your-consent) to [filing a complaint with GDPR authorities](https://noyb.eu/en/exercise-your-rights-article-77-complain-your-dpa) e.g. for lack of transparency about changes in data control. The latter can be done e.g. in Germany, where Trustroots server resides ([Hetzner Digital](https://www.hetzner.com/)).
